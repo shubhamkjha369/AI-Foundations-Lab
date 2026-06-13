@@ -10,3 +10,21 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+# User requested exclusions
+PyTorch/security_camera/
+PyTorch/create_notebook.py
+PyTorch/execute_notebook_direct.py
+PyTorch/intel_gpu_vs_npu_benchmark.ipynb
+PyTorch/ov_bench.onnx
+PyTorch/ov_bench.onnx.data
+PyTorch/test_model.onnx
+PyTorch/test_model.onnx.data
+PyTorch/hardware_benchmark_summary.png
+PyTorch/stress_test_stability.png
+security_log.txt
+v380-pro-2-2-61.apk
+yolov8n.onnx
+alerts/
+alters/
+
